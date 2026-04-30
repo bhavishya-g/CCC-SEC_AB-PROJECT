@@ -69,10 +69,13 @@ shortest-path-finder/
 
 ---
 
-## 👨‍💻 Team Members
-- Member 1
-- Member 2
-- (Add your names here)
+## 👨‍💻 Team Members - SEC AB
+- Chundru Santhosh Chowdary - AP24110010998
+- Kakarapathi Hemanth -  AP24110010844
+- Vanka Sri Harshith - AP24110010843
+- Kanukollu Akhil - AP24110011032
+- Garikipati Bhavishya - AP24110010904
+  
 
 ---
 
