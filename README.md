@@ -74,7 +74,7 @@ shortest-path-finder/
 - Kakarapathi Hemanth -  AP24110010844
 - Vanka Sri Harshith - AP24110010843
 - Kanukollu Akhil - AP24110011032
-- Garikipati Bhavishya - AP24110010904
+- Bhavishya Garikapati- AP24110010904
   
 
 ---
